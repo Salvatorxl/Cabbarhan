@@ -14,7 +14,7 @@ export default function Home() {
         <p className="text-xl text-white/50 font-normal text-center mb-5">Other addresses where you can contact me.</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
-                <a target="_blank" rel="norefferer" href=" https://instagram.com/umutxyp/">
+                <a target="_blank" rel="norefferer" href=" https://www.instagram.com/furk4n.dll/">
                     <div className="flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-instagram fa-2x" />
                         <p className="font-semibold text-xl">@umutxyp</p>
@@ -26,7 +26,7 @@ export default function Home() {
                         <p className="font-semibold text-xl">@umutxyp</p>
                     </div>
                 </a>
-                <a target="_blank" rel="norefferer" href="https://discord.com/users/615029465726320654">
+                <a target="_blank" rel="norefferer" href="https://discord.com/users/982000267711086672">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
                         <p className="font-semibold text-xl">Umut#6070</p>
